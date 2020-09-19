@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\helpers.h(24,59): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\helpers.h(25,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\helpers.h(34,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(78,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(80,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(96,95): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(97,96): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(99,39): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\estimators.h(99,60): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\main.cpp(28,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\main.cpp(89,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\main.cpp(95,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ijan\source\repos\Markov Localization\Markov Localization\main.cpp(124,27): warning C4018: '<': signed/unsigned mismatch
+  Markov Localization.vcxproj -> C:\Users\ijan\source\repos\Markov Localization\Debug\Markov Localization.exe
